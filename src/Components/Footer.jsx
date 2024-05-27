@@ -14,8 +14,8 @@ const Footer = () => {
         /></Link>
         <p className="text-sm text-gray-400">&copy; 2024 Your Company Name. All rights reserved.</p>
       </div>
-      
-      <div className="flex flex-col md:flex-row items-center md:items-start mb-6 md:mb-0">
+     
+      <div className="flex flex-col md:flex-row  items-center md:items-start mb-6 md:mb-0">
         <div className="flex flex-col md:mr-8 mb-4 md:mb-0">
           <h3 className="text-lg font-bold mb-2">Quick Links</h3>
           <Link to="/" className="text-gray-400 hover:underline mb-1" href="/">Home</Link>
