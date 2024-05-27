@@ -12,7 +12,7 @@ const Footer = () => {
           alt="Logo"
           className="h-16 mb-4"
         /></Link>
-        <p className="text-sm text-gray-400">&copy; 2024 Your Company Name. All rights reserved.</p>
+        <p className="text-sm text-gray-400">&copy; 2024. All rights reserved.</p>
       </div>
      
       <div className="flex flex-col md:flex-row">
@@ -25,7 +25,7 @@ const Footer = () => {
             </a>
         </div>
         <div className="flex flex-col">
-          <h3 className="text-lg font-bold mb-2">Follow Us</h3>
+          <h3 className="text-lg font-bold mb-2">Follow Me</h3>
           <div className="flex space-x-4">
             <a href="https://www.facebook.com/sagar.regmi.5876/" className="text-gray-400 hover:text-white">
               <i className="fab fa-facebook-f"></i>
